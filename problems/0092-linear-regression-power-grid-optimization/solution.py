@@ -1,4 +1,3 @@
-# Cell 1
 import math
 import numpy as np
 PI = 3.14159
