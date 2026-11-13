@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**12** solved · 6 problems · 0 labs · 6 math
+**13** solved · 7 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-11-08 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-11-08 | [solution](problems/0083-dot-product-calculator) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-11-13 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
+| [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-11-13 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-08 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-11-12 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 
