@@ -1,7 +1,6 @@
 import numpy as np
 from functools import reduce
 
-
 def compute_chain_rule_gradient(functions: list[str], x: float) -> float:
     """
     Compute derivative of composite functions using chain rule.
@@ -33,5 +32,7 @@ def compute_chain_rule_gradient(functions: list[str], x: float) -> float:
     )
 
     return float(total_df(x))
-    # zfn = getattr(math, functions[0])
-    # ffn = getattr(math, functions[0])
+    # gx = OPS[functions[1]][0](x)
+    
+    # return OPS[functions[0]][1](gx)* (OPS[functions[1]][1](x))
+
